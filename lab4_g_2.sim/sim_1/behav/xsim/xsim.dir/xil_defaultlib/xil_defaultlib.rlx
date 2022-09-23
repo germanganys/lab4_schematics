@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 19 2021
+02:56:52
+/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sim_1/new/testbench.v,1663850697,verilog,,,/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/sr_cpu.vh,sm_testbench,,,../../../../lab4_g_2.srcs/sources_1/new,,,,,
+/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/main_funk.v,1663850632,verilog,,/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/mul.v,,main_funk,,,../../../../lab4_g_2.srcs/sources_1/new,,,,,
+/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/mul.v,1663848637,verilog,,/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/sm_register.v,,mul,,,../../../../lab4_g_2.srcs/sources_1/new,,,,,
+/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/sm_register.v,1663847545,verilog,,/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/sm_rom.v,,sm_register;sm_register_we,,,../../../../lab4_g_2.srcs/sources_1/new,,,,,
+/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/sm_rom.v,1663849616,verilog,,/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/sm_top.v,,sm_rom,,,../../../../lab4_g_2.srcs/sources_1/new,,,,,
+/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/sm_top.v,1663850924,verilog,,/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/sr_cpu.v,,sm_clk_divider;sm_debouncer;sm_top,,,../../../../lab4_g_2.srcs/sources_1/new,,,,,
+/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/sr_cpu.v,1663851473,verilog,,/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sim_1/new/testbench.v,/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/sr_cpu.vh,sm_register_file;sr_alu;sr_control;sr_cpu;sr_decode,,,../../../../lab4_g_2.srcs/sources_1/new,,,,,
+/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/sr_cpu.vh,1663847671,verilog,,,,,,,,,,,,

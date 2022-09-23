@@ -1,0 +1,21 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/main_funk.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module main_funk
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/mul.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mul
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/sm_register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sm_register
+INFO: [VRFC 10-311] analyzing module sm_register_we
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/sm_rom.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sm_rom
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/sm_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sm_top
+INFO: [VRFC 10-311] analyzing module sm_debouncer
+INFO: [VRFC 10-311] analyzing module sm_clk_divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sources_1/new/sr_cpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sr_cpu
+INFO: [VRFC 10-311] analyzing module sr_decode
+INFO: [VRFC 10-311] analyzing module sr_control
+INFO: [VRFC 10-311] analyzing module sr_alu
+INFO: [VRFC 10-311] analyzing module sm_register_file
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/kurtlike/german_4/new_lab4/lab4_g_2/lab4_g_2.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sm_testbench

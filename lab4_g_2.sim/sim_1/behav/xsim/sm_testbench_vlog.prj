@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../lab4_g_2.srcs/sources_1/new" \
+"../../../../lab4_g_2.srcs/sources_1/new/main_funk.v" \
+"../../../../lab4_g_2.srcs/sources_1/new/mul.v" \
+"../../../../lab4_g_2.srcs/sources_1/new/sm_register.v" \
+"../../../../lab4_g_2.srcs/sources_1/new/sm_rom.v" \
+"../../../../lab4_g_2.srcs/sources_1/new/sm_top.v" \
+"../../../../lab4_g_2.srcs/sources_1/new/sr_cpu.v" \
+"../../../../lab4_g_2.srcs/sim_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

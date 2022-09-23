@@ -1,0 +1,51 @@
+Time resolution is 1 ps
+    0  pc = xxxxxxxx instr = xxxxxxxx   a0 = x   new/unknown
+    1  pc = 00 instr = 0b800313   a0 = x   addi  $6, $0, 0x000000b8
+    2  pc = 00 instr = 0b800313   a0 = x   addi  $6, $0, 0x000000b8
+    3  pc = 00 instr = 0b800313   a0 = x   addi  $6, $0, 0x000000b8
+    4  pc = 04 instr = 05334513   a0 = x   xori  $10, $6, 0x00000053
+    5  pc = 08 instr = 00800613   a0 = 235   addi  $12, $0, 0x00000008
+    6  pc = 0c instr = 00800593   a0 = 235   addi  $11, $0, 0x00000008
+    7  pc = 10 instr = 00b60517   a0 = 235   myfunk  $10, $12, 0x0000000b
+    8  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+    9  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   10  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   11  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   12  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   13  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   14  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   15  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   16  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   17  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   18  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   19  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   20  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   21  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   22  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   23  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   24  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   25  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   26  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   27  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   28  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   29  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   30  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   31  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   32  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   33  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   34  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   35  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   36  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   37  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   38  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   39  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   40  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   41  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   42  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   43  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   44  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   45  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   46  pc = 10 instr = 00b60517   a0 = 0   myfunk  $10, $12, 0x0000000b
+   47  pc = 14 instr = 00000063   a0 = 576   beq   $0, $0, 0x00000000 (0)
+   48  pc = 14 instr = 00000063   a0 = 576   beq   $0, $0, 0x00000000 (0)
+   49  pc = 14 instr = 00000063   a0 = 576   beq   $0, $0, 0x00000000 (0)
